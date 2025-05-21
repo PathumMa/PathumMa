@@ -50,41 +50,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PathumMa&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathumMa&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="170" />
-</div>
 
-<div align="center">
+  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PathumMa&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 📊 Infrastructure Projects
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PathumMa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  <a href="https://github.com/PathumMa/kubernetes-cluster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PathumMa&repo=kubernetes-cluster&theme=react&hide_border=true" alt="Kubernetes Cluster" />
-  </a>
-  <a href="https://github.com/PathumMa/terraform-aws-modules">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PathumMa&repo=terraform-aws-modules&theme=react&hide_border=true" alt="Terraform AWS Modules" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/PathumMa/prometheus-grafana-stack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PathumMa&repo=prometheus-grafana-stack&theme=react&hide_border=true" alt="Monitoring Stack" />
-  </a>
-  <a href="https://github.com/PathumMa/cicd-pipeline-templates">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PathumMa&repo=cicd-pipeline-templates&theme=react&hide_border=true" alt="CI/CD Templates" />
-  </a>
-</div>
-
-## 📜 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing Kubernetes Resource Utilization](https://your-blog-url.com/kubernetes-optimization)
-- [Infrastructure as Code Best Practices](https://your-blog-url.com/iac-best-practices)
-- [Building a Resilient CI/CD Pipeline](https://your-blog-url.com/resilient-cicd)
-- [Cloud Cost Optimization Strategies](https://your-blog-url.com/cloud-cost-optimization)
-<!-- BLOG-POST-LIST:END -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PathumMa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 Certifications
 
@@ -111,6 +85,19 @@
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PathumMa&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=PathumMa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pathumm) 
+
 
 ---
 
