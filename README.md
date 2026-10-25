@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Pathum
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&random=false&width=435&lines=Application+Support+Engineer;DevOps;Site+Reliability;Cloud+Infrastructure+Architect;Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&random=false&width=435&lines=DevOps;Site+Reliability;Cloud+Infrastructure+Architect;Automation+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
