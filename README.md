@@ -13,7 +13,7 @@
 
 ## 🛠️ About Me
 
-- 🔧 I work as an **Application Support Engineer**, solving real-world problems in banking-related systems.
+- 🔧 I work as an **DevOps and Cloud infrastructure Engineer**, solving real-world problems in banking-related systems.
 - 🌐 I'm passionate about **Cloud Engineering**, **DevOps**, and building **automated infrastructure**.
 - ☁️ Certified in **AZ-900** | Completed **AWS Cloud Essentials**.
   
